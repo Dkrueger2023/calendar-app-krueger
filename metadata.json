@@ -1,0 +1,6 @@
+{
+  "name": "Family Calendar App",
+  "description": "A shared calendar application for families to manage events, with an approval workflow for new event proposals. Includes daily, weekly, and monthly views.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
